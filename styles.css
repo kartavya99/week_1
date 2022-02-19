@@ -1,0 +1,81 @@
+*{margin:0;
+}
+
+body{background-color: lavenderblush;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header{
+    position:fixed;
+    top: 0;
+    left:0;
+    width: 100%;
+    background-color: rgb(240, 187, 187);
+    float:right;
+    display: inline;
+}
+
+ul{display: inline;
+    float: right;
+    margin-top: 10px;
+    font-size: 25px;
+    
+}
+
+.btn{
+    display: inline;
+    padding: 10px;
+    font: size 15px;
+      
+    }
+      
+figure{
+    background-color: rgb(213, 185, 221);
+    text-align: center;
+    margin-top: 70px;
+    }
+h1{font-size: 50px;
+
+}
+#pic1{
+    display: block;
+    margin:auto;
+    padding: o;
+}
+
+article{background-color: rgb(226, 202, 210);
+}
+
+
+.p1{ text-align: justify;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+section{background-color: rgb(236, 163, 174);
+}
+
+h3{padding-top: 20px;
+}
+
+
+lable,
+input {
+    display: block;
+    padding:10px;
+}
+
+
+.label1{
+    padding-bottom: 5px;
+}
+form{display:block;
+     width: 200px;
+}
+
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
